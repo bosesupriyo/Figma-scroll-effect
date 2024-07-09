@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------
 
 FIGMA PAGE LINK - https://www.figma.com/design/VEmjQDD2P2ghbj9PDdR6xS/Scrolling-Animation?node-id=0%3A1&t=0jjlm2Wx8LkwBPVb-1
-
+# NOTE - PLEASE PREVIEW IT
 ------------------------------------------------------------------------------------------
 
 ![Desktop - 1 (3) 1](https://github.com/bosesupriyo/Figma-scroll-effect/assets/124809398/ec671b8e-6714-4303-b0b4-50c38e0eec1f)
